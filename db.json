@@ -3,7 +3,7 @@
     {
         "user_id": null,
         "story_id": "10935cac-eb75-40f6-8529-ffda667cc040",
-        "total": 0,
+        "total": 10,
         "is_actioned": false,
         "status": "Anonymous cannot be checked status in liked list!",
         "response_code": "403"
